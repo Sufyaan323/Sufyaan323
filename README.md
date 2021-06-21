@@ -4,7 +4,6 @@
 ---
 A student who is aiming for a degree in computer science and is currently studying programming languages such as Python, C#, Visual Basic, HTML, CSS and Javascript.
 
-I have planned, managed and created programs, as well as websites in and out of my college course.
 ---
 🧰 Toolbox
 
